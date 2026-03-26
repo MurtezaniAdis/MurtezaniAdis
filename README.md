@@ -1,6 +1,7 @@
 # 👋 Hey, ich bin Murtezani Adis
 
-> Entwickler mit Fokus auf Web & Software – von der ersten JavaFX-App bis zu KI-Projekten.
+> Entwickler mit derzeitigem Fokus auf Web & Software – von der ersten JavaFX-App bis zu KI-Projekten.
+> Spezielle Interessen: Web Development, IT-Security, Ai and Data Science
 
 ---
 
@@ -18,7 +19,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-### AI & Data
+### AI & Data Science
 ![Python](https://img.shields.io/badge/Python_(AI)-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
@@ -26,16 +27,16 @@
 ## 🚀 Projekte
 
 ### 🎮 Quiz Desktop App
-> Mein allererstes Projekt – eine Desktop-Anwendung als Quiz-Spiel.
+> Mein erstes Projekt im Rahmen meiner Lehrveranstaltungen – ein Quiz-Spiel als Desktop-App
 
 - **Tech:** Java, JavaFX
 - **Was ich gelernt habe:** Grundlegende Programmierkonzepte, GUI-Entwicklung mit JavaFX
-- ⚠️ *Früher Code – zeigt die Lernkurve!*
+- *Früher Code – ist trotzdem dazu da, um meine Lernkurve zu zeigen!*
 
 ---
 
 ### 🎬 Quiz Recommendation Website
-> Eine Webseite, die Film- und Serien-Quiz-Empfehlungen auf Basis der TMDB API liefert.
+> Eine Webseite, die Film- und Serien-Quiz-Empfehlungen liefert.
 
 - **Frontend:** JavaScript, Vue.js
 - **Backend:** JavaScript (Node.js)
@@ -47,8 +48,9 @@
 ### 🖥️ OS Finder
 > Eine Webseite, die anhand eines Algorithmus das passende Betriebssystem für den Nutzer ermittelt.
 
+- **Fronted:** JavaScript, React, Bootstrap
+- **Backend:** Python, Flask
 - **Highlights:** Deutlich verbesserte Codequalität & Projektstruktur im Vergleich zu früheren Projekten
-- **Fokus:** Algorithmus-Design, UX
 
 ---
 
