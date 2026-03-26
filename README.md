@@ -57,9 +57,16 @@
 
 ---
 
-### 🤖 AI & Data Science Projekt *(Coming Soon)*
-> Ein kleines Projekt rund um KI und Data Science – stay tuned!
+### 🤖 CNN Hyperparameter Analyse
+> Ein kleines Forschungsprojekt rund um die verschiedenen Hyperparameter auf die Leistung eines Convolutional Neural Networks zur Erkennung handgeschriebener Ziffern (MNIST).
 
+- Analysiert werden unter anderem: Learning Rate, Optimizer, Dropout
+- Durchführung von experimentellen Trainingsläufen mit unterschiedlichen Konfigurationen
+- Auswertung mittels Accuracy, Loss-Kurven und Confusion Matrix
+- Visualisierung von Modellverhalten (Gewichte und Aktivierungen)
+
+*(Erste praktische Arbeit im Bereich AI & Data Science mit Fokus auf Experimenten und Ergebnissen.  
+Die Dokumentation ist funktional gehalten und bietet Potenzial für zukünftige Erweiterungen und detailliertere Analysen.)*
 ---
 
 ## 📫 Kontakt
