@@ -65,8 +65,9 @@
 - Auswertung mittels Accuracy, Loss-Kurven und Confusion Matrix
 - Visualisierung von Modellverhalten (Gewichte und Aktivierungen)
 
-- Erste praktische Arbeit im Bereich AI und Data Science mit Fokus auf Experimenten und Ergebnissen.
-- Die Dokumentation bietet Potenzial für zuküftige Erwereiterungen und detaillierterer Analysen.
+
+> Erste praktische Arbeit im Bereich AI und Data Science mit Fokus auf Experimenten und Ergebnissen.
+> Die Dokumentation bietet Potenzial für zuküftige Erwereiterungen und detaillierterer Analysen.
 ---
 
 ## 📫 Kontakt
