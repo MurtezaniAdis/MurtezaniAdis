@@ -38,7 +38,7 @@
 
 ---
 
-### 🎬 Quiz Recommendation Website
+### 🎬 Film Recommendation Website
 > Eine Webseite, die Film- und Serien-Quiz-Empfehlungen liefert.
 
 - **Frontend:** JavaScript, Vue.js
