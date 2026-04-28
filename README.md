@@ -70,6 +70,9 @@
 > Die Dokumentation bietet Potenzial für zuküftige Erwereiterungen und detaillierterer Analysen.
 ---
 
+### JobAnalyzer
+*(Coming Soon)*
+
 ## 📫 Kontakt
 
 - 💼 [LinkedIn](https://linkedin.com/in/adis-murtezani-ab531322b)
