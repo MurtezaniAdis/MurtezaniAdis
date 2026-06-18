@@ -70,8 +70,10 @@
 > Die Dokumentation bietet Potenzial für zuküftige Erwereiterungen und detaillierterer Analysen.
 ---
 
-### JobAnalyzer
-*(Coming Soon)*
+### Coming soon
+*Job Analyzer*
+*Road Surface Classification using Transfer Learning*
+*Neuromorphic model vs LSTM ECG Classification*
 
 ## 📫 Kontakt
 
