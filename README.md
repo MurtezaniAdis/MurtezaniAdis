@@ -71,9 +71,9 @@
 ---
 
 ### Coming soon
-*Job Analyzer*
-*Road Surface Classification using Transfer Learning*
-*Neuromorphic model vs LSTM ECG Classification*
+- *Job Analyzer*
+- *Road Surface Classification using Transfer Learning*
+- *Neuromorphic model vs LSTM ECG Classification*
 
 ## 📫 Kontakt
 
