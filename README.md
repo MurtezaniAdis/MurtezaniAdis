@@ -1,11 +1,11 @@
-# 👋 Hey, ich bin Murtezani Adis
+# Hey, ich bin Murtezani Adis
 
 > Entwickler mit derzeitigem Fokus auf Web & Software – von der ersten JavaFX-App bis zu KI-Projekten.
 > Spezielle Interessen: Web Development, IT-Security, Ai and Data Science
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -27,28 +27,29 @@
 
 ---
 
-## 🚀 Projekte
+## Top Projekte
 
-### 🎮 Quiz Desktop App
-> Mein erstes Projekt im Rahmen meiner Lehrveranstaltungen – ein Quiz-Spiel als Desktop-App
+### Road Surface Classification (Transfer Learning)
+> CNN-basiertes Klassifikationsprojekt mit großem Datensatz (~1M Bilder)
 
-- **Tech:** Java, JavaFX
-- **Was ich gelernt habe:** Grundlegende Programmierkonzepte, GUI-Entwicklung mit JavaFX
-- *Früher Code – ist trotzdem dazu da, um meine Lernkurve zu zeigen!*
-
----
-
-### 🎬 Film Recommendation Website
-> Eine Webseite, die Film- und Serien-Quiz-Empfehlungen liefert.
-
-- **Frontend:** JavaScript, Vue.js
-- **Backend:** JavaScript (Node.js)
-- **API:** [TMDB API](https://www.themoviedb.org/documentation/api)
-- **Architektur:** Klare Frontend/Backend-Trennung
+- Transfer Learning (ResNet / EfficientNet)
+- Google Colab Training Pipeline
+- Kaggle Dataset Integration
+- Fokus: realistische Computer Vision Anwendung
 
 ---
 
-### 🖥️ OS Finder
+### Neuromorphic vs LSTM ECG Classification
+> Vergleich biologisch inspirierter neuronaler Systeme mit klassischen Deep Learning Modellen
+
+- Neuromorphic Reservoir Computing (Tanaka Lab)
+- LSTM Baseline Modell
+- Google Colab + Google Drive Workflow
+- Fokus: Time-Series & Medical AI
+
+---
+
+### OS Finder
 > Eine Webseite, die anhand eines Algorithmus das passende Betriebssystem für den Nutzer ermittelt.
 
 - **Fronted:** JavaScript, React, Bootstrap
@@ -57,7 +58,7 @@
 
 ---
 
-### 🤖 CNN Hyperparameter Analyse
+### CNN Hyperparameter Analyse
 > Ein kleines Forschungsprojekt rund um die verschiedenen Hyperparameter auf die Leistung eines Convolutional Neural Networks zur Erkennung handgeschriebener Ziffern (MNIST).
 
 - Analysiert werden unter anderem: Learning Rate, Optimizer, Dropout
@@ -70,10 +71,18 @@
 > Die Dokumentation bietet Potenzial für zuküftige Erwereiterungen und detaillierterer Analysen.
 ---
 
+### Route Planner (JavaFX)
+> Graph-basierte Routenplanung mit eigenen Algorithmen
+
+- Custom Graph Data Structure
+- Dijkstra, Binary Search, Quicksort
+- JavaFX UI
+- Full architecture separation (Service / Model / Algorithms)
+
+---
+
 ### Coming soon
 - *Job Analyzer*
-- *Road Surface Classification using Transfer Learning*
-- *Neuromorphic model vs LSTM ECG Classification*
 
 ## 📫 Kontakt
 
